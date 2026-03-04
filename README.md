@@ -50,12 +50,17 @@ The workflow focuses on **data cleaning**, **standardization**, **dataset integr
 1. **Jams Delay Distribution (Boxplot)**  
    The boxplot illustrates the distribution and variability of traffic delay times across cities in 2024. The visualization highlights dispersion in congestion levels and enables identification of potential outliers.
 
-   ![Jams Delay Boxplot](/assets/img/p01_jams_delay_boxplot.png)
+   ![Jams Delay Boxplot](/assets/p01_jams_delay_boxplot.png)
 
 2. **Jams Delay Distribution (Enhanced View)**  
    An enhanced boxplot with mean markers provides additional visibility into the central tendency and spread of congestion delays, supporting exploratory assessment of urban traffic conditions.
 
-   ![Jams Delay Distribution](/assets/img/p01_jams_delay_distribution.png)
+   ![Jams Delay Distribution](/assets/p01_jams_delay_distribution.png)
+
+3. **Traffic vs. Economic Output by City:**  
+   The bar chart compares `jams_delay` and `city_gdp_capita` across cities, enabling visual assessment of the relationship between urban congestion and economic productivity. Preliminary patterns suggest that mobility efficiency may play a relevant role in urban economic performance, supporting the need for deeper multivariate analysis.
+
+   ![Traffic vs Economy by City](/assets/p01_traffic_vs_economy.png)
 
 ---
 
